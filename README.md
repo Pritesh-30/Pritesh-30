@@ -39,6 +39,11 @@ I'm a 3rd-year engineering student with a passion for **Full Stack Development**
 
 ---
 
+#HACTOBERFEST2025 - SUPERCONTRIBUTER
+[![An image of @pritesh30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritesh30)](https://holopin.io/@pritesh30)
+
+---
+
 ## 📫 Connect with Me
 
 - **LinkedIn:** [linkedin.com/in/pritesh-shetty-60419a320](https://www.linkedin.com/in/pritesh-shetty-60419a320/)
